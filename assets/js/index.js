@@ -1,7 +1,7 @@
-const vm = new VTTCue({
+const vm = new Vue({
     el: '#app',
     data: {
-        
+        j
     },
     methods:{
         
